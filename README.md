@@ -1,1 +1,2 @@
-# gittest2
+dot product of two vectors
+python code
